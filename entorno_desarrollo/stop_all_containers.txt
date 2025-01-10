@@ -1,3 +1,0 @@
-docker-compose down -v
-
-#los para y elimina
