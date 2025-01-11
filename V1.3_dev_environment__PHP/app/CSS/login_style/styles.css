@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7; /* Fondo opcional */
+}
+main {
+    display: flex;
+    flex-direction: column; /* Alinea los elementos en columna */
+    justify-content: center; /* Centra verticalmente */
+    align-items: center; /* Centra horizontalmente */
+    height: 100vh; /* Ocupa toda la altura de la ventana */
+    text-align: center; /* Centra el texto si es necesario */
+    
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Opcional, para más estilo */
+    padding: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column; /* Elementos apilados */
+
+    width: 300px; /* Ancho fijo del formulario */
+}
+
+input, button {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #00bcd4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0097a7;
+}
+
+
+/*La parte donde te pregunta si quieres crear una cuenta*/
+
+.crear_una_cuenta {
+    margin-top: 5px;
+}
+.crear_una_cuenta a{
+    color:#00bcd4;
+    transition: color 0.3s ease;
+}
+.crear_una_cuenta a:hover{
+    color:#0058d4
+}
