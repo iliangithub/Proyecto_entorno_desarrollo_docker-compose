@@ -10,3 +10,6 @@ Una vez le demos doble click nos pedirá permisos de Administrador (realmente lo
 
 Hay otro .exe, pero ese otro sirve para borrar los Contenedores, Imagenes, Volumenes y las Builds.
 
+![image](https://github.com/user-attachments/assets/4eb90bb1-2373-4401-ab31-16ef9a3a7fec)
+
+También está hecho en .sh para los usuarios de Linux.
