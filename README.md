@@ -6,7 +6,7 @@ Proyecto final, Parte 2: https://github.com/iliangithub/Proyecto_AWS_IaC-monitor
 
 > 🔴 Project Number 1.
 >
->The idea came up because, in order to carry out Project Number 2, I need to develop a website, and I required an environment that would allow me to do so. I wasn't sure which programming languages I would use or >what the tech stack would be. I initially thought about using only PHP, then decided to add Python and install JS using Node.js.
+>The idea came up because, in order to carry out Project Number 2, I need to develop a website, and I required an environment that would allow me to do so. I wasn't sure which programming languages I would use or what the tech stack would be. I initially thought about using only PHP, then decided to add Python and install JS using Node.js.
 >
 >There is no tool like this on the market; if we only think about an environment for developing with PHP that includes a database, we might think of XAMPP.
 >
@@ -20,7 +20,7 @@ Proyecto final, Parte 2: https://github.com/iliangithub/Proyecto_AWS_IaC-monitor
 
 >🔴 Proyecto Número 1.
 >
->La idea surgió porque, para llevar a cabo el Proyecto Número 2, necesito desarrollar un sitio web y requería un entorno que me permitiera hacerlo. No estaba seguro de qué lenguajes de programación utilizaría ni >cuál sería la pila tecnológica. Al principio pensé en usar solo PHP, luego decidí agregar Python e instalar JS usando Node.js.
+>La idea surgió porque, para llevar a cabo el Proyecto Número 2, necesito desarrollar un sitio web y requería un entorno que me permitiera hacerlo. No estaba seguro de qué lenguajes de programación utilizaría ni cuál sería la pila tecnológica. Al principio pensé en usar solo PHP, luego decidí agregar Python e instalar JS usando Node.js.
 >
 >No hay una herramienta como esta en el mercado; si solo pensamos en un entorno para desarrollar con PHP que incluya una base de datos, podríamos pensar en XAMPP.
 >
